@@ -114,7 +114,7 @@ function Navbar() {
               to="resume-cover"
               className="navbar--content"
             >
-              Resume And Cover Latter
+              Resume Cover Latter
             </Link>
           </li>
         </ul>
