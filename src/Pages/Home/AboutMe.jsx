@@ -9,10 +9,15 @@ export default function AboutMe() {
           <p className="section--title">About</p>
           <h1 className="skills-section--heading">About Me</h1>
           <p className="hero--section-description">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem
-            officiis sit debitis omnis harum sed veniam quasi dicta accusamus
-            recusandae? Voluptatem, reprehenderit alias? Eligendi aperiam
-            tempora numquam sint odit optio.
+          I'm Yared Addisu, a passionate software engineer with over three years of experience in the tech industry. My journey began with a strong foundation in HTML, CSS, and JavaScript, which eventually led me to explore various frameworks and libraries such as Vue.js, React.js, Laravel, and Spring Boot.
+
+In addition to my software development expertise, I have a keen interest in graphics design, video editing, and AI art. Leveraging tools like Photoshop, Illustrator, and After Effects, I enjoy bringing creativity and innovation to my projects.
+
+As a freelancer on platforms like Fiverr and Upwork, I've had the opportunity to work on diverse projects, honing my skills and collaborating with clients from around the world. My commitment to delivering high-quality solutions and exceeding client expectations has earned me a reputation for reliability and professionalism.
+
+I'm also proud to be the founder of Lomi Inventory Management System, a project that embodies my entrepreneurial spirit and vision for streamlining inventory management processes. With Lomi, I aim to empower businesses with efficient, user-friendly tools to optimize their operations and drive success.
+
+Driven by a passion for technology and a desire to make a positive impact, I'm constantly seeking new challenges and opportunities to learn and grow. Whether it's developing innovative software solutions or pushing the boundaries of digital art, I'm committed to pushing myself to new heights and making a difference in the world.
           </p>
           <p className="hero--section-description">
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem
