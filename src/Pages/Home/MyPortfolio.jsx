@@ -10,7 +10,7 @@ export default function MyPortfolio() {
           <h2 className="section--heading">My Portfolio</h2>
         </div>
         <div>
-          <Link to="https://github.com/yaredaddisu"  className="btn btn-github">
+          <a target="_blank" href="https://github.com/yaredaddisu"  className="btn btn-github">
             <svg
               xmlns="http://www.w3.org/2000/svg"
               width="32"
@@ -26,7 +26,7 @@ export default function MyPortfolio() {
               />
             </svg>
             Visit My GitHub
-          </Link >
+          </a >
         </div>
       </div>
       <div className="portfolio--section--container">
