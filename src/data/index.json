@@ -46,7 +46,14 @@
       "title": "Easy Rentn",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
       "link": "View In Github"
-    }
+    },
+      {
+      "id": "3",
+      "src": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs2/368140914/original/724d5d1f22ff49e0f3e4fd3789054402b97c20b1/transforming-your-vision-into-reality.png",
+      "title": "Easy Rentn",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "link": "View In Github"
+    },
   ],
   "testimonial": [
     {
