@@ -1,4 +1,5 @@
 import data from "../../data/index.json";
+import { Link } from "react-scroll";
 
 export default function MyPortfolio() {
   return (
@@ -9,7 +10,7 @@ export default function MyPortfolio() {
           <h2 className="section--heading">My Portfolio</h2>
         </div>
         <div>
-          <router-link to="https://github.com/yaredaddisu"  className="btn btn-github">
+          <Link to="https://github.com/yaredaddisu"  className="btn btn-github">
             <svg
               xmlns="http://www.w3.org/2000/svg"
               width="32"
@@ -25,13 +26,13 @@ export default function MyPortfolio() {
               />
             </svg>
             Visit My GitHub
-          </router-link >
+          </Link >
         </div>
       </div>
       <div className="portfolio--section--container">
         {data?.portfolio?.map((item, index) => (
           <div key={index} className="portfolio--section--card">
-            <div className="portfolio--section--img h-200">
+            <div className="portfolio--section--img ">
               <img src={item.src} alt="Placeholder" />
             </div>
             <div className="portfolio--section--card--content">
