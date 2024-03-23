@@ -103,6 +103,20 @@ function Navbar() {
               Testimonials
             </Link>
           </li>
+          <li>
+            <Link
+              onClick={closeMenu}
+              activeClass="navbar--active-content"
+              spy={true}
+              smooth={true}
+              offset={-70}
+              duration={500}
+              to="resume-cover"
+              className="navbar--content"
+            >
+              Resume And Cover Latter
+            </Link>
+          </li>
         </ul>
       </div>
       <Link
