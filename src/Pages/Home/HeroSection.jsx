@@ -1,3 +1,5 @@
+import { Link } from "react-scroll";
+
 export default function HeroSection() {
   return (
     <section id="heroSection" className="hero--section">
@@ -17,8 +19,18 @@ export default function HeroSection() {
             I am experienced software developer and graphics designer.
            </p>
         </div>
-        <button className="btn btn-primary">Get In Touch</button>
-      </div>
+        <Link
+         activeClass="navbar--active-content"
+        spy={true}
+        smooth={true}
+        offset={-70}
+        duration={500}
+        to="Contact"
+        className="btn btn-primary"
+      >
+        Get In Touch
+      </Link>
+       </div>
       <div className="hero--section--img">
         <img src="./img/hero_img.png" alt="Hero Section" />
       </div>

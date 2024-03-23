@@ -21,11 +21,13 @@ p {
   --heading-color: #282938;
   --bg-shade: #f5fcff;
   --github: #e62872;
+  --linked: #28bae6;
   --darkblue: #1c1e53;
   --black: #000000;
   --white: #ffffff;
 }
 .btn {
+  margin: 2;
   font-family: "Roboto";
   display: inline-block;
   padding: 14px 32px;

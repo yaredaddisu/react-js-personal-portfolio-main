@@ -5,7 +5,8 @@ export default function ContactMe() {
         <p className="sub--title">Get In Touch</p>
         <h2>Contact Me</h2>
         <p className="text-lg">
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. In, odit.
+        Email: <b>yaredaddisu1997@gmail.com</b> <br />
+        Phone: <b>+251 923 423 589</b>
         </p>
       </div>
       <form className="contact--form--container">
