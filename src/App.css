@@ -354,8 +354,6 @@ h2 {
 }
 .portfolio--section--img > img {
   width: 100%;
-  height: 300px;
-
 }
 .portfolio--section--card {
   display: flex;
