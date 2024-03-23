@@ -2,7 +2,7 @@
   "skills": [
     {
       "id": "1",
-      "src": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs2/368097058/original/afb87e548efef413f247d6f99325725b6dcd9861/craft-your-perfect-logo-design-with-precision-and-creativity.png",
+      "src": "./img/product-chain-1.png",
       "title": "Front-End",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
     },
@@ -28,7 +28,7 @@
   "portfolio": [
     {
       "id": "1",
-      "src": "./img/placeholder-image.jpg",
+      "src": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs2/368097058/original/afb87e548efef413f247d6f99325725b6dcd9861/craft-your-perfect-logo-design-with-precision-and-creativity.png",
       "title": "Ahuse",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
       "link": "View In Github"
@@ -47,13 +47,14 @@
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
       "link": "View In Github"
     },
-      {
+  {
       "id": "3",
       "src": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs2/368140914/original/724d5d1f22ff49e0f3e4fd3789054402b97c20b1/transforming-your-vision-into-reality.png",
       "title": "Easy Rentn",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
       "link": "View In Github"
     },
+
   ],
   "testimonial": [
     {
