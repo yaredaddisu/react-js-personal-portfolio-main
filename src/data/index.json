@@ -4,25 +4,25 @@
       "id": "1",
       "src": "./img/product-chain-1.png",
       "title": "Front-End",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "description": "React Js, Vue Js, Vite, Vuex, Tailwind CSS, Bootstrap, HTML,CSS,JQuery"
     },
-    {
+    { 
       "id": "2",
       "src": "./img/tag-1.png",
       "title": "Back-End",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "description": "PHP,JAVA, Spring Boot, Laravel and Others"
     },
     {
       "id": "3",
       "src": "./img/feather-pen-2.png",
       "title": "UI & UX Design",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "description": "Figma"
     },
     {
       "id": "4",
       "src": "./img/feather-pen-1.png",
       "title": "Graphics Design",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "description": "PhotoShop,Illustrater,After Effect, Canava, CupCut, Logo design, Video Editor,Illustration and Others"
     }
   ],
   "portfolio": [
