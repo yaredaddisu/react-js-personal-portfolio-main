@@ -29,30 +29,30 @@
     {
       "id": "1",
       "src": "./img/placeholder-image.JPG",
-      "title": "Ahuse",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "link": "View In Github"
+      "title": "Lomi Inventory Management System",
+      "description": "Lomi Inventory Management system developed by back-end Lravel and for front-end Vue Js,Vuex,Vite,Tailwind CSS,HTML,JavaScript,PHP its web based system users can access over the internet and can be used by any device ",
+      "link": "https://www.lomifera.com"
     },
     {
       "id": "2",
       "src": "./img/placeholder-image-1.png",
-      "title": "App Dashboard",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "link": "View In Github"
+      "title": "Minimalist Logo Design",
+      "description": "This is my Logo project in fiverr delived to my user",
+      "link": "https://www.fiverr.com/s/jz3QBL"
     },
     {
       "id": "3",
       "src": "./img/placeholder-image-2.png",
-      "title": "Easy Rentn",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "title": "Word Art, Minimalist , Abstract",
+      "description": "Word Art, Minimalist , Abstract logo design in fiverr",
       "link": "View In Github"
     },
   {
       "id": "3",
       "src": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs2/368140914/original/724d5d1f22ff49e0f3e4fd3789054402b97c20b1/transforming-your-vision-into-reality.png",
-      "title": "Easy Rentn",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "link": "View In Github"
+      "title": "3D Logo design",
+      "description": "3D Logo Design in fiverr ",
+      "link": "https://www.fiverr.com/s/xBVwoX"
     }
 
   ],
