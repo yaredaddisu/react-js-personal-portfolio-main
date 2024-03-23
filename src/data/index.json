@@ -52,10 +52,10 @@
     {
       "id": "1",
       "count": "5",
-      "src": "./img/avatar-image.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "author_name": "Dianne Russel",
-      "author_designation": "Starbucks"
+      "src": null,
+      "description": " Exceptional service! I recently ordered a logo and was thoroughly impressed by the efficiency, creativity, and excellent communication of the designer. Not only did he deliver ahead of schedule, but he also surpassed my expectations, bringing my vision to life with a modern twist that truly catches the eye. His dedication to understanding and enhancing my ideas was evident throughout the process. I wholeheartedly recommend his services to anyone in need of a logo that stands out",
+      "author_name": "akjoshua",
+      "author_designation": "Logo Design"
     },
     {
       "id": "2",
