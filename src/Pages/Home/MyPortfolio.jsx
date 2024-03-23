@@ -1,5 +1,4 @@
 import data from "../../data/index.json";
-import { Link } from "react-scroll";
 
 export default function MyPortfolio() {
   return (
@@ -10,7 +9,7 @@ export default function MyPortfolio() {
           <h2 className="section--heading">My Portfolio</h2>
         </div>
         <div>
-          <a target="_blank" href="https://github.com/yaredaddisu"  className="btn btn-github">
+          <button className="btn btn-github">
             <svg
               xmlns="http://www.w3.org/2000/svg"
               width="32"
@@ -26,21 +25,21 @@ export default function MyPortfolio() {
               />
             </svg>
             Visit My GitHub
-          </a >
+          </button>
         </div>
       </div>
       <div className="portfolio--section--container">
         {data?.portfolio?.map((item, index) => (
           <div key={index} className="portfolio--section--card">
-            <div className="portfolio--section--img ">
+            <div className="portfolio--section--img">
               <img src={item.src} alt="Placeholder" />
             </div>
             <div className="portfolio--section--card--content">
               <div>
                 <h3 className="portfolio--section--title">{item.title}</h3>
-                <p className="text-md">{item.description}</p>
+                <p className="text-md portfolio--section--description">{item.description}</p>
               </div>
-              <a className="text-sm portfolio--link" href={item.link} target="_blank" >
+              <p className="text-sm portfolio--link">
                 {item.link}
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
@@ -57,7 +56,7 @@ export default function MyPortfolio() {
                     stroke-linejoin="round"
                   />
                 </svg>
-              </a>
+              </p>
             </div>
           </div>
         ))}
