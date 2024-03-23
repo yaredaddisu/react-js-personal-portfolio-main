@@ -13,16 +13,16 @@ export default function AboutMe() {
           <br />
 
 In addition to my software development expertise, I have a keen interest in graphics design, video editing, and AI art. Leveraging tools like Photoshop, Illustrator, and After Effects, I enjoy bringing creativity and innovation to my projects.
-<br />
+<br className="m-2" />
 
 
-As a freelancer on platforms like Fiverr and Upwork, I've had the opportunity to work on diverse projects, honing my skills and collaborating with clients from around the world. My commitment to delivering high-quality solutions and exceeding client expectations has earned me a reputation for reliability and professionalism.          <br />
+As a freelancer on platforms like Fiverr and Upwork, I've had the opportunity to work on diverse projects, honing my skills and collaborating with clients from around the world. My commitment to delivering high-quality solutions and exceeding client expectations has earned me a reputation for reliability and professionalism.          <br  className="m-2"/>
 
 
-I'm also proud to be the founder of Lomi Inventory Management System, a project that embodies my entrepreneurial spirit and vision for streamlining inventory management processes. With Lomi, I aim to empower businesses with efficient, user-friendly tools to optimize their operations and drive success.          <br />
+I'm also proud to be the founder of Lomi Inventory Management System, a project that embodies my entrepreneurial spirit and vision for streamlining inventory management processes. With Lomi, I aim to empower businesses with efficient, user-friendly tools to optimize their operations and drive success.          <br className="m-2" />
 
 
-Driven by a passion for technology and a desire to make a positive impact, I'm constantly seeking new challenges and opportunities to learn and grow. Whether it's developing innovative software solutions or pushing the boundaries of digital art, I'm committed to pushing myself to new heights and making a difference in the world.          <br />
+Driven by a passion for technology and a desire to make a positive impact, I'm constantly seeking new challenges and opportunities to learn and grow. Whether it's developing innovative software solutions or pushing the boundaries of digital art, I'm committed to pushing myself to new heights and making a difference in the world.          <br  className="m-2"/>
 
           </p>
             
