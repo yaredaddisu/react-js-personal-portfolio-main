@@ -28,7 +28,7 @@
   "portfolio": [
     {
       "id": "1",
-      "src": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs2/368097058/original/afb87e548efef413f247d6f99325725b6dcd9861/craft-your-perfect-logo-design-with-precision-and-creativity.png",
+      "src": "./img/placeholder-image.png",
       "title": "Ahuse",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
       "link": "View In Github"
