@@ -27,7 +27,7 @@ export default function MyPortfolio() {
             </svg>
             Visit My Fiverr Profile
           </a >
-          <a href="https://linkedin.com/in/yaredaddisu" target="_blank" className="btn btn-github  ">
+          <a href="https://www.linkedin.com/in/yared-addisu-37a74a203/" target="_blank" className="btn btn-github  ">
             <svg
               xmlns="http://www.w3.org/2000/svg"
               width="32"
